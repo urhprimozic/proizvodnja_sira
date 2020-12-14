@@ -1,4 +1,4 @@
-Za ljubitelje kratke proze velja umeniti, da zadevo poženeš z
+Za ljubitelje kratke proze velja omeniti, da zadevo poženeš z
 s klicom funkcije
 
 
