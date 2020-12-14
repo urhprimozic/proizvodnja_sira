@@ -6,6 +6,14 @@ s klicom funkcije
 
 in se igraš s parametri.
 
+Če hočeš več regij, spremeni slovar
+
+``Regije = {"Ljubljana" : 100000, "Tržič : tko miljon stari, ..}`` 
+
+v kaj bolj zanimivega.
+
+Kosntane SIR-a, ki so baje  za COVID, se tud da spremenit, pa sm bil prelen, da bi to dal v globlane spremenljivke.
+
 # Mastni in manj mastni siri iz Tržiških planin
 Skripta za simulacijo vsot vrednosti SIR modelov v različnih regijah.
 
