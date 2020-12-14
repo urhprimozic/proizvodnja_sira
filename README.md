@@ -26,5 +26,8 @@ Skripta za simulacijo vsot vrednosti SIR modelov v različnih regijah.
 TODO
 Uglavnem pa  **Okuženi(t) = SUM_regije Okuženi_regija(t)** pa fensi grafe nariše
 
+# Fensi slikovno gradivo
+![To se zgodi, če kadiš travo](https://github.com/urhprimozic/proizvodnja_sira/blob/main/data/radtrpim_22.png)
+
 ## Zakaj delam to namesto učenja ali članka?
 [Obstoj filozofskih spisov in slabih pesnitev je neodvisen od aksioma izbire (link).](https://en.wikipedia.org/wiki/Procrastination)
